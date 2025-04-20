@@ -5,7 +5,7 @@ datasources:
     jsonData:
       httpHeaderName1: "X-Scope-OrgID"
     secureJsonData:
-      httpHeaderValue1: "docker"
+      httpHeaderValue1: "servers"
     editable: true
     isDefault: true
     name: loki
